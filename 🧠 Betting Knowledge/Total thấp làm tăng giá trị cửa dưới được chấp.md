@@ -39,3 +39,17 @@ Khi cửa trên chỉ nhỉnh nhẹ, cần hỏi:
 ## Trận liên quan
 
 [[Corinthians 0-0 Athletico-PR]]
+
+## Case bổ sung: Drogheda United 0-0 Shamrock Rovers
+
+- Shamrock chấp -0,5.
+- Trận có baseline bàn thắng thấp.
+- Drogheda có cấu trúc sân nhà tốt.
+- Xác suất hòa lớn.
+
+Kết quả 0-0:
+
+- Shamrock -0,5 thua.
+- Drogheda +0,5 thắng.
+
+[[Drogheda United 0-0 Shamrock Rovers]]

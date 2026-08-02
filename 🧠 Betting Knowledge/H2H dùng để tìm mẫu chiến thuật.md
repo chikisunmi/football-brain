@@ -58,3 +58,18 @@ Bài học:
 Đối đầu trực tiếp có trọng số cao khi chiến thuật và bộ khung còn tương đồng.
 
 [[Brann 3-1 Universitatea Cluj]]
+
+## Case bổ sung: Drogheda United 0-0 Shamrock Rovers
+
+Hai trận Shamrock làm khách tại Drogheda trong mùa đều kết thúc 0-0.
+
+Giá trị không nằm ở việc sao chép tỷ số.
+
+Mẫu chiến thuật lặp lại:
+
+- Shamrock chủ động hơn.
+- Drogheda bảo vệ không gian.
+- Shamrock gặp khó trong pha cuối.
+- Trận bị kéo về ít bàn.
+
+[[Drogheda United 0-0 Shamrock Rovers]]

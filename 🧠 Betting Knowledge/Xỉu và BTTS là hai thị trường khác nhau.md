@@ -58,3 +58,15 @@ Helsingborg – Nordic United kết thúc 1-1:
 ## Trận liên quan
 
 [[Helsingborgs IF 1-1 Nordic United]]
+## Case bổ sung: Drogheda United 0-0 Shamrock Rovers
+
+Trận kết thúc 0-0:
+
+- Xỉu thắng.
+- BTTS Không thắng.
+
+Nhưng bài học không phải cứ chọn Xỉu là phải chọn BTTS Không.
+
+BTTS Không thắng vì cả hai đội đều thiếu chất lượng chuyển hóa.
+
+[[Drogheda United 0-0 Shamrock Rovers]]

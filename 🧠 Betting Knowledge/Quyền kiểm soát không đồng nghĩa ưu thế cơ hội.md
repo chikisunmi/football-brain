@@ -57,3 +57,19 @@ Cách diễn đạt chính xác:
 Corinthians kiểm soát thế trận và tạo cơ hội tốt hơn, nhưng thiếu khối lượng tấn công và không tận dụng được những cơ hội hiếm hoi.
 
 [[Corinthians 0-0 Athletico-PR]]
+## Case bổ sung: Shanghai Port 0-1 Shandong Taishan
+
+Shanghai thực sự có ưu thế quá trình:
+
+- 70% kiểm soát.
+- 21 cú sút.
+- 8 cú trúng đích.
+- Một quả phạt đền.
+
+Nhưng không ghi bàn.
+
+Case này bổ sung một lớp mới:
+
+Ngay cả khi có ưu thế cơ hội, cược handicap và team total vẫn có thể thua vì chuyển hóa, thủ môn và game-state.
+
+[[Shanghai Port 0-1 Shandong Taishan]]
